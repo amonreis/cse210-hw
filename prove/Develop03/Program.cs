@@ -96,6 +96,8 @@ class Program
             }
 
         }
-
+        
+        // I added the functionality to choose scriptures from books.
+        // Handled the case of randomly choosing from the same letter to hide.
     }
 }
